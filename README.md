@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h2>Hey, I'm Bhagya 👋</h2>
+  <h2>Hey, I'm Bhagya</h2>
 
   <p>
     Building clean web experiences.
