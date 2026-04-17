@@ -1,68 +1,75 @@
-<div align="center">
-<img height="140" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" />
-</div>
+<div align="center" style="background-color:#0d1117; padding:30px; border-radius:12px;">
 
-###
+  <!-- Header -->
+  <h1 style="color:#ffffff;">Hey, I'm Bhagya 👋</h1>
+  <p style="color:#8b949e; font-size:16px;">
+    Building clean web experiences & solving real-world problems
+  </p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/bhagya-vishwakarma-6a52b72bb">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=111&logoColor=white&style=for-the-badge" height="25" />
+  <!-- Portfolio -->
+  <a href="https://bhagya.online/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/bhagya-vishwakarma-20">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=111&logoColor=white&style=for-the-badge" height="25" />
-  </a>
+
+  <br/><br/>
+
+  <!-- Subtle GIF -->
+  <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 </div>
 
-###
+---
 
+<h3 style="color:#ffffff;">👨‍💻 About Me</h3>
 
-###
+<ul style="color:#c9d1d9;">
+  <li> CSE Student @ IIIT Dharwad</li>
+  <li> Focused on Web Dev, DSA & building scalable systems</li>
+  <li> Exploring AI/ML with real-world applications</li>
+  <li> Hackathons + creative engineering projects</li>
+  <li> Chess, problem-solving & late-night building</li>
+</ul>
 
-<h1 align="center">Hey there</h1>
+---
 
-###
+<h3 style="color:#ffffff;">🔥 Current Focus</h3>
 
-<h3 align="left">About Me</h3>
+<ul style="color:#c9d1d9;">
+  <li> Writing clean, scalable code</li>
+  <li>  Consistency in DSA & problem solving</li>
+  <li> Building projects that actually matter</li>
+</ul>
 
-<p align="left">
-I'm Bhagya, a Computer Science student at IIIT Dharwad.<br><br>
-- Currently focused on Data Structures and Algorithms, DevOps, and Machine Learning<br>
-- Building scalable web applications and real-world projects<br>
-- Interested in backend systems, system design, and clean UI/UX<br>
-- Experience in full-stack development with modern tools<br>
-- I spend my free time playing badminton or chess
-</p>
+---
 
-###
-
-<h3 align="left">Languages and Tools</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-</div>
-
-###
-
-<h3 align="left">Stats</h3>
+<h3 style="color:#ffffff;">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=bhagya-vishwakarma-20&theme=dark&hide_border=true" height="200" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="160"/>
+
 </div>
 
-###
+---
+
+<h3 style="color:#ffffff;">🌐 Connect</h3>
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+</div>
+
+---
+
+<div align="center" style="color:#8b949e; margin-top:20px;">
+  <i>“Minimal. Intentional. Built to last.”</i>
+</div>
