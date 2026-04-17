@@ -5,10 +5,10 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://www.linkedin.com/in/bhagya-vishwakarma-6a52b72bb">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=111&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/bhagya-vishwakarma-20">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=111&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bhagya-vishwakarma-20" />
 </div>
 
 ###
@@ -65,7 +65,7 @@ I'm Bhagya, a Computer Science student at IIIT Dharwad.<br><br>
 <h3 align="left">Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=dark&hide_border=true" height="200" />
+  <img src="https://streak-stats.demolab.com?user=bhagya-vishwakarma-20&theme=dark&hide_border=true" height="200" />
 </div>
 
 ###
