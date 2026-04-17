@@ -32,16 +32,6 @@
 
 ---
 
-<h3 style="color:#ffffff;"> Current Focus</h3>
-
-<ul style="color:#c9d1d9;">
-  <li> Writing clean, scalable code</li>
-  <li>  Consistency in DSA & problem solving</li>
-  <li> Building projects that actually matter</li>
-</ul>
-
----
-
 <div align="center" style="color:#8b949e; margin-top:20px;">
   <i>“Minimal. Intentional. Built to last.”</i>
 </div>
